@@ -29,6 +29,7 @@ p {
 
 .primary-box {
   padding-top: 1px;
+  padding-bottom: 10px;
   line-height: 1.2;
   background-color: rgb(43, 43, 43);
   color: white;
